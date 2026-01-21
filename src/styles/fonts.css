@@ -1,0 +1,8 @@
+/* Memphis Design / 80s Pop Art Typography */
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700;800;900&family=Work+Sans:wght@400;500;600;700;800&display=swap');
+
+/* Font Variables */
+:root {
+  --font-display: 'Rubik', system-ui, -apple-system, sans-serif;
+  --font-body: 'Work Sans', system-ui, -apple-system, sans-serif;
+}
