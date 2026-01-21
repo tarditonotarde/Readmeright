@@ -197,10 +197,10 @@ export function QuestionScreen({
               fontWeight: "600",
               letterSpacing: "0.01em",
               maxWidth: "380px",
-              border: "3px solid var(--negro-tinta)"
+              border: "0px solid var(--negro-tinta)"
             }}
           >
-            No right answers here.
+            
           </motion.p>
         </div>
       </motion.div>
