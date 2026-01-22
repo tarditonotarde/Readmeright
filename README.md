@@ -9,4 +9,10 @@
 
   Run `npm run dev` to start the development server.
   
-  
+
+  # Add to gh-pages
+
+git add .
+git commit -m "Add missing index.html, main.tsx and .gitignore"
+git push
+npm run deploy
